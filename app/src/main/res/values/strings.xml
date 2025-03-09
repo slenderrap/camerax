@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">camerax</string>
-    <string name="captura">Fotografia</string>
+    <string name="captura">Foto</string>
     <string name="graba">Graba</string>
 </resources>
